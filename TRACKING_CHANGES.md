@@ -20,3 +20,4 @@ and if you want to reverse it, you can just delete [final] and you can see all c
 alternatively, there is another package for which you have already a template with examples on Overleaf (just log in over the link and you have the template there): 
 
 https://www.overleaf.com/latex/examples/track-changes-in-latex-with-trackchanges/cymjcmjsnphy
+
