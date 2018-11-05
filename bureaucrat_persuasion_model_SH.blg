@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bureaucrat_persuasion_model_SH.aux
+The style file: plainnat.bst
+Database file #1: bureaucrat_persuasion_model_biblio.bib
+Warning--entry type for "Info2017" isn't style-file defined
+--line 34 of file bureaucrat_persuasion_model_biblio.bib
+Warning--entry type for "Filibuster2017" isn't style-file defined
+--line 42 of file bureaucrat_persuasion_model_biblio.bib
+Warning--entry type for "Uspol2017" isn't style-file defined
+--line 50 of file bureaucrat_persuasion_model_biblio.bib
+Warning--entry type for "Wiki2017" isn't style-file defined
+--line 58 of file bureaucrat_persuasion_model_biblio.bib
+Warning--empty year in Filibuster2017
+Warning--empty year in Info2017
+Warning--empty year in Uspol2017
+Warning--empty year in Wiki2017
+You've used 10 entries,
+            2773 wiz_defined-function locations,
+            660 strings with 6348 characters,
+and the built_in function-call counts, 3800 in all, are:
+= -- 350
+> -- 155
+< -- 10
++ -- 58
+- -- 45
+* -- 276
+:= -- 578
+add.period$ -- 30
+call.type$ -- 10
+change.case$ -- 45
+chr.to.int$ -- 7
+cite$ -- 24
+duplicate$ -- 173
+empty$ -- 351
+format.name$ -- 65
+if$ -- 793
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 5
+newline$ -- 58
+num.names$ -- 40
+pop$ -- 92
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 141
+stack$ -- 0
+substring$ -- 153
+swap$ -- 15
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 110
+warning$ -- 4
+while$ -- 39
+width$ -- 0
+write$ -- 132
+(There were 8 warnings)

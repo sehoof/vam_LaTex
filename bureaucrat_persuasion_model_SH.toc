@@ -1,0 +1,17 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {section}{\numberline {2}Literature}{6}{section.2}
+\contentsline {section}{\numberline {3}The Model}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Set-up and Timing:}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}The Equilibrium:}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Introducing Receiver Types:}{14}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Comparative Statics}{15}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Summary of Results:}{15}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Empirical Evidence on the Communication between FOMC and US Congress:}{17}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Welfare Effects:}{23}{subsection.3.7}
+\contentsline {section}{\numberline {4}Conclusion}{24}{section.4}
+\contentsline {section}{\numberline {5}Appendix}{26}{section.5}
+\contentsline {subsection}{\numberline {5.1}Proof I:}{26}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Proof II:}{26}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Proof III:}{27}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}OLS Output from \citep {GL2017}:}{28}{subsection.5.4}

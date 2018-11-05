@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Crawford and Sobel(1982)]{CS1982}
+Vincent~P. Crawford and Joel Sobel.
+\newblock Strategic information transmission.
+\newblock \emph{Econometrica}, 50\penalty0 (6):\penalty0 1431--1451, November
+  1982.
+
+\bibitem[Dewatripont and Tirole(2005)]{DT2005}
+Mathias Dewatripont and Jean Tirole.
+\newblock Modes of communication.
+\newblock \emph{Journal of Political Economy}, 113\penalty0 (6):\penalty0
+  1217--1238, December 2005.
+
+\bibitem[Gentzkow and Kamenica(2014)]{GK2014}
+Matthew Gentzkow and Emir Kamenica.
+\newblock Costly persuasion.
+\newblock \emph{American Economic Review}, 104\penalty0 (5):\penalty0 457--462,
+  2014.
+
+\bibitem[Jubinski and Tomljanovich(2013)]{JT2013}
+Daniel Jubinski and Marc Tomljanovich.
+\newblock Do fomc minutes matter to markets? an intraday analysis of fomc
+  minutes releases on individual equity volatility and returns.
+\newblock \emph{Review of Financial Economics}, 22\penalty0 (3):\penalty0
+  86--97, 2013.
+
+\bibitem[Kamenica and Gentzkow(2011)]{KG2011}
+Emir Kamenica and Matthew Gentzkow.
+\newblock Bayesian persuasion.
+\newblock \emph{American Economic Review}, 101:\penalty0 2590--2615, 2011.
+
+\bibitem[Lisi(2017)]{GL2017}
+Guilio Lisi.
+\newblock Political determinants of fomc transparency.
+\newblock Work in Progress, 2017.
+
+\bibitem[on: 30.5.2017)({\natexlab{a}})]{Filibuster2017}
+Filibustercartoons.com~(Accessed on: 30.5.2017).
+\newblock Chart of presidents of the united states, {\natexlab{a}}.
+\newblock URL \url{http://jjmccullough.com/prezidents.htm}.
+
+\bibitem[on: 30.5.2017)({\natexlab{b}})]{Info2017}
+Infoplease.com~(Accessed on: 30.5.2017).
+\newblock Composition of congress, by political party, 1855-2017,
+  {\natexlab{b}}.
+\newblock URL
+  \url{https://www.infoplease.com/history-and-government/us-government/composition-congress-political-party-1855-2017}.
+
+\bibitem[on: 30.5.2017)({\natexlab{c}})]{Uspol2017}
+Uspolitics.about.com~(Accessed on: 30.5.2017).
+\newblock The political makeup of congress, {\natexlab{c}}.
+\newblock URL
+  \url{https://www.thoughtco.com/the-political-makeup-of-congress-3368266}.
+
+\bibitem[on: 30.5.2017)({\natexlab{d}})]{Wiki2017}
+Wikipedia~(Accessed on: 30.5.2017).
+\newblock Presidents of the united states and control of congress,
+  {\natexlab{d}}.
+\newblock URL
+  \url{https://en.wikipedia.org/wiki/Presidents_of_the_United_States_and_control_of_Congress}.
+
+\end{thebibliography}
